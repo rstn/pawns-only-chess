@@ -5,7 +5,7 @@ Two-player program for chess variant where board contains only pawns
 
 new comit
 
-123123123 ghjdthrf b
+ghjdthrf b
 
 The white pawns are denoted with the capital W, the black pawns are the capital B characters.
 
