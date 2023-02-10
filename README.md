@@ -1,7 +1,9 @@
 # Pawns only chess
 Two-player program for chess variant where board contains only pawns
 
-привет всем, первый опыт найти и изменить репозиторий в гите, вроде успешно
+ГЇГ°ГЁГўГҐГІ ГўГ±ГҐГ¬, ГЇГҐГ°ГўГ»Г© Г®ГЇГ»ГІ Г­Г Г©ГІГЁ ГЁ ГЁГ§Г¬ГҐГ­ГЁГІГј Г°ГҐГЇГ®Г§ГЁГІГ®Г°ГЁГ© Гў ГЈГЁГІГҐ, ГўГ°Г®Г¤ГҐ ГіГ±ГЇГҐГёГ­Г®
+
+new comit
 
 The white pawns are denoted with the capital W, the black pawns are the capital B characters.
 
