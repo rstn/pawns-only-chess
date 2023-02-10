@@ -3,6 +3,8 @@ Two-player program for chess variant where board contains only pawns
 
 привет всем, первый опыт найти и изменить репозиторий в гите, вроде успешно
 
+123123123 ghjdthrf b
+
 The white pawns are denoted with the capital W, the black pawns are the capital B characters.
 
 A unique pair of coordinates (a letter and a number) identifies each square of the chessboard. From White's left to right, the squares in the vertical lines are called files. They are labeled from a to h. The horizontal lines, known as ranks, are numbered from 1 to 8. These are legit coordinate pairs: a2, c6, d8, h5, and so on. This corresponds to the chess algebraic notation for recording moves in chess.
